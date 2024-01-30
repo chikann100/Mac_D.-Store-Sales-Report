@@ -1,6 +1,7 @@
 # Mac_D Store Sales Analysis
 
 ### Project Overview
+---
 
 this data analysis project aims to provide insists into the sales performance of Mac_D store over the past year. by analysis various aspects of the sales data, i was able to identify trends and data-driven recommendation and gain an understanding of the company's performance.
 
@@ -84,8 +85,15 @@ Based on the analysis, we recommend the following actions:
 i have to remove all zero values from my dataset because they would affect the accuracy of my conclusion
 
 ### Reference
-SQL essentials for business analysts and data professionals
- (https://www.udemy.com)
+[SQL essentials for business analysts and data professionals](https://www.udemy.com)
+
+😄
+💻
+
+|Heading1 | Heading2|
+|---------|---------|
+|content|content2|
+|python|SQL|
 
 
  
