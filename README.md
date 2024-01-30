@@ -4,6 +4,11 @@
 
 this data analysis project aims to provide insists into the sales performance of Mac_D store over the past year. by analysis various aspects of the sales data, i was able to identify trends and data-driven recommendation and gain an understanding of the company's performance.
 
+
+
+
+<img width="532" alt="mad_d" src="https://github.com/chikann100/Mac_D.-Store-Sales-Report/assets/149578332/7a52d7e2-8295-450a-8002-b11d0e5c8590">
+
 ### Data sources
 
 data: the dataset used for this analysis is the "mac_D Transaction_1998.csv", "mac_D Transaction_1997.csv", "mac_D products.csv". constaining detailed information for each sales made by the company.
