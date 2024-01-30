@@ -90,11 +90,6 @@ i have to remove all zero values from my dataset because they would affect the a
 😄
 💻
 
-|Heading1 | Heading2|
-|---------|---------|
-|content|content2|
-|python|SQL|
-
 
  
     
