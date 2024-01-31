@@ -44,7 +44,7 @@ EDA involved exploring the sales data to answer key questions such as:
 ``` sql
 select
   product name, product id
-from product table
+from product
 order by product name
 limit 5;
 ```
@@ -55,7 +55,7 @@ from
 (select product id, quantity
 union all
 select product id, quantity
-from transaction 1997
+from transaction_1997
 group by product id;
 ```
 
