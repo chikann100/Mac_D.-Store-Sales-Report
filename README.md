@@ -1,6 +1,6 @@
 # Mac_D Store Sales Analysis
 
-### Project Overview
+### Project Overview 
 ---
 
 this data analysis project aims to provide insists into the sales performance of Mac_D store over the past year. by analysis various aspects of the sales data, i was able to identify trends and data-driven recommendation and gain an understanding of the company's performance.
